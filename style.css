@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.lang-switch {
+  margin-bottom: 20px;
+}
+
+a {
+  color: #1a73e8;
+}
+
+.logo {
+  max-width: 180px;
+  height: auto;
+  margin-bottom: 20px;
+}
